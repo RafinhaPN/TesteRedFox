@@ -1,0 +1,9 @@
+.link{
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    font-size: 25px;
+}
+.link:hover{
+    color: white;
+}
